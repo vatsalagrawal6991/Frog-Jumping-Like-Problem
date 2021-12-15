@@ -11,4 +11,5 @@ a general solution (not only for 10 but for general n steps). The function shoul
 number of solutions and not the solutions themselves. No induction proof is required.
 
 HOW TO MAKE EXECUTABLE AND RUN PROGRAMME
+
 just frog n function in haskell compiler here n is value 
