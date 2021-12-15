@@ -1,4 +1,4 @@
-# MAde By Vatsal Agrawal
+# Made By Vatsal Agrawal
 # Frog-Jumping-Like-Problem
 A general Recursion Problem in haskell
 
